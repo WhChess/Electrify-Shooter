@@ -1,0 +1,2 @@
+*.gml linguist-detectable=true
+*.* linguist-detectable=false
