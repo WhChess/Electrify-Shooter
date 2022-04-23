@@ -36,6 +36,14 @@ https://github.com/WhChess/Electrify-Shooter/archive/refs/heads/main.zip
 | X |Ultimate power |
 | Left Click |Shoot |
 
+## Other Functions
+
+![Readme_Image1](https://raw.githubusercontent.com/WhChess/Electrify-Shooter/main/txtfiles/Update.jpg)
+- Megaphone sign - Sound on/off
+- Broadcast sign - Game start/stop
+- Headphone sign - Change background music.
+- Score - Your Game-Score.
+
 ## License
 
 [Mozilla Public License 2.0](https://github.com/WhChess/Electrify-Shooter/blob/main/LICENSE)
