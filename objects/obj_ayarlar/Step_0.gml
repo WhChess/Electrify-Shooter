@@ -8,7 +8,7 @@ if(obj_soundimage.soundme == 1){
 		audio_sound_gain(snd_bg, 0, 0);
 	}
 }
-if(obj_soundimage.soundme == 0){
+else if(obj_soundimage.soundme == 0){
 	audio_sound_gain(snd_bg2, 0, 0);
 	audio_sound_gain(snd_bg, 0, 0);
 
