@@ -4,3 +4,6 @@ if(window_get_fullscreen()){
 else{
 	window_set_fullscreen(true);
 }
+ini_open("savedata.ini");
+ini_write_real("Options","FS",true);
+ini_close();

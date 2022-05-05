@@ -1,3 +1,6 @@
+if(collision_point(x, y, obj_player, true, false)){
+	instance_destroy();
+}
 image_speed = 0;
 sprite_index = spr_enemyfirst;
 
