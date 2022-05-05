@@ -35,6 +35,8 @@ https://github.com/WhChess/Electrify-Shooter/archive/refs/heads/main.zip
 | F11 |Fullscreen |
 | X |Ultimate power |
 | Left Click |Shoot |
+| L |(Never) Full-screen|
+| Tab |Fullscreen |
 
 ## Other Functions
 
