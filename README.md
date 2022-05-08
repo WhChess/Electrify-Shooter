@@ -49,3 +49,7 @@ https://github.com/WhChess/Electrify-Shooter/archive/refs/heads/main.zip
 ## License
 
 [Mozilla Public License 2.0](https://github.com/WhChess/Electrify-Shooter/blob/main/LICENSE)
+
+## Info
+
+- This game will be released on itch.io website in v2last Alpha version.
