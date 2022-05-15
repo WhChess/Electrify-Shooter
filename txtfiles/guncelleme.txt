@@ -1,7 +1,7 @@
-"Update-4" adlı güncellemede, oyundaki birçok hata giderildi.
-- Düşmanın karakterin ölme mesafesi içerisinde doğma hatası, 
-- Tam ekran sıkıntısı yaşayan bilgisayarlar için oynama zorluğunun giderilmesi,
+"Update" adlı güncellemede, oyundaki birçok hata giderildi.
+- Düşmanın karakterin ölme mesafesi içerisinde doğma hatası (gelişmiş) , 
+- Oyunun bir anda "değişken" bulunamadı hatasının giderilmesi,
 Ve bir çok güncelleme eklendi:
-- Oyun Başı ve Sonu ekranı yapılması,
-- Oyun sonu ekranının özelleştirilmesi,
+- Karakterin Ulti basarkenki animasyonunun geliştirilmesi,
+- Ultinin artık sağ tık ile atılabilmesi,
 gibi bir çok değişik konuları ele aldım.
