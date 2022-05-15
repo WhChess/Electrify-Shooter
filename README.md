@@ -33,7 +33,7 @@ https://github.com/WhChess/Electrify-Shooter/archive/refs/heads/main.zip
 | W,A,S,D |Direction controls |
 | v_up/v_down/v_left/v_right  |Direction controls |
 | F11 |Fullscreen |
-| X |Ultimate power |
+| X or Right Click |Ultimate power |
 | Left Click |Shoot |
 | L |(Never) Full-screen|
 | Tab |Fullscreen |
