@@ -20,6 +20,19 @@ hp = 5;
 /// @DnDArgument : "var" "spd"
 spd = 1.5;
 
+/// @DnDAction : YoYo Games.Common.If_Undefined
+/// @DnDVersion : 1
+/// @DnDHash : 781CCBCB
+/// @DnDArgument : "var" "obj_spawn.sprind"
+if(obj_spawn.sprind == undefined)
+{
+	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+	/// @DnDVersion : 1
+	/// @DnDHash : 7520662C
+	/// @DnDParent : 781CCBCB
+	instance_destroy();
+}
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 376EBFC2

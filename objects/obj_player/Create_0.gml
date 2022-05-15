@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 5E1BC4DF
+/// @DnDArgument : "code" "image_speed = 0;$(13_10)time = 1;$(13_10)image_index = 0;$(13_10)"
+image_speed = 0;
+time = 1;
+image_index = 0;
+
 /// @DnDAction : YoYo Games.Instances.Sprite_Scale
 /// @DnDVersion : 1
 /// @DnDHash : 35F8999C

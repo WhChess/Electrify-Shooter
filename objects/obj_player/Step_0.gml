@@ -19,9 +19,14 @@ cooldown += -1;
 x=clamp(x, 0+sprite_xoffset, room_width);
 y=clamp(y, 0+sprite_yoffset, room_height);
 
-if(keyboard_check_released(ord("X"))){
+if(keyboard_check_released(ord("X")) or mouse_check_button(mb_right)){
 	if(ult<=0){
 		ult=20;
+		image_index = 1;
+		if(time==1){
+			alarm[0] = 120;
+			time = 0;
+		}
 		instance_create_layer(x, y, "Instances", obj_u);
 		if(obj_soundimage.soundme==1){
 			audio_sound_gain(snd_ult,1,0);
