@@ -1,7 +1,6 @@
-"Update" adlı güncellemede, oyundaki birçok hata giderildi.
-- Düşmanın karakterin ölme mesafesi içerisinde doğma hatası (gelişmiş) , 
-- Oyunun bir anda "değişken" bulunamadı hatasının giderilmesi,
+"Update - Fix" adlı güncellemede, oyundaki birçok hata giderildi.
+- Düşman doğarken gelen hata mesajı giderildi (%90)
+- Oyunda bazı iyileştirilmeler yapıldı.
 Ve bir çok güncelleme eklendi:
-- Karakterin Ulti basarkenki animasyonunun geliştirilmesi,
-- Ultinin artık sağ tık ile atılabilmesi,
+- Oyun sonu ekranında artık skorunuzu görebiliyorsunuz.
 gibi bir çok değişik konuları ele aldım.
