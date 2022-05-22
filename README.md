@@ -9,7 +9,7 @@ The game is a Shooter game and how to play the game is specified in other parts.
 Download the game
 
 ```bash
-https://github.com/WhChess/Electrify-Shooter/raw/main/ShooterGameAlpha.zip
+https://github.com/WhChess/Electrify-Shooter/raw/main/ShooterGameInstallerWin.exe
 ```
 Download sprites
 ```bash
