@@ -16,8 +16,8 @@ if (l141A6A6C_0)
 
 cooldown += -1;
 
-x=clamp(x, 0+sprite_xoffset, room_width);
-y=clamp(y, 0+sprite_yoffset, room_height);
+x=clamp(x, 0+sprite_xoffset, room_width-sprite_xoffset);
+y=clamp(y, 0+sprite_yoffset, room_height-sprite_yoffset);
 
 if(keyboard_check_released(ord("X")) or mouse_check_button(mb_right)){
 	if(ult<=0){
