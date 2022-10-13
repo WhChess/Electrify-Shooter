@@ -9,7 +9,11 @@ The game is a Shooter game and how to play the game is specified in other parts.
 Download the game
 
 ```bash
+Windows:
 https://github.com/WhChess/Electrify-Shooter/raw/main/ShooterGameInstallerWin.exe
+
+Mac OS:
+https://github.com/WhChess/Electrify-Shooter/raw/main/ShooterGameAlphaMACOS.zip
 ```
 Download sprites
 ```bash
@@ -49,7 +53,3 @@ https://github.com/WhChess/Electrify-Shooter/archive/refs/heads/main.zip
 ## License
 
 [Mozilla Public License 2.0](https://github.com/WhChess/Electrify-Shooter/blob/main/LICENSE)
-
-## Info
-
-- This game will be released on itch.io website in v2last Alpha version.
