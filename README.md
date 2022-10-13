@@ -14,6 +14,12 @@ https://github.com/WhChess/Electrify-Shooter/raw/main/ShooterGameInstallerWin.ex
 
 Mac OS:
 https://github.com/WhChess/Electrify-Shooter/raw/main/ShooterGameAlphaMACOS.zip
+
+Note: If Mac says apps "damaged" when downloaded from internet - How to Fix:
+
+https://help.yoyogames.com/hc/en-us/articles/216753558
+https://help.yoyogames.com/hc/en-us/articles/216753168--Downloaded-app-is-damaged-and-can-t-be-opened-
+
 ```
 Download sprites
 ```bash
