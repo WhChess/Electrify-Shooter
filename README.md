@@ -1,6 +1,6 @@
 # ElectrifyShooter - A GMS Shooter Game
 
-The project is purely for entertainment purposes and continues to be developed.
+The project is purely for entertainment purposes.
 The game is a Shooter game and how to play the game is specified in other parts.
 
   
