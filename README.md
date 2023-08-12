@@ -33,7 +33,6 @@ https://github.com/WhChess/Electrify-Shooter/archive/refs/heads/main.zip
 ## Useful Tools
 
 - [readme.so](https://readme.so/tr/editor) - Readme file optimization.
-- [DownGit](https://downgit.github.io/#/home) - Useful tool.
 - [GMS Manual](https://manual.yoyogames.com/) - GameMaker Manual.
 
 ## Key & Functions
@@ -57,5 +56,7 @@ https://github.com/WhChess/Electrify-Shooter/archive/refs/heads/main.zip
 - Score - Your Game-Score.
 
 ## License
+
+License
 
 [Mozilla Public License 2.0](https://github.com/WhChess/Electrify-Shooter/blob/main/LICENSE)
