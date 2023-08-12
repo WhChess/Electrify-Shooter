@@ -23,7 +23,7 @@ https://help.yoyogames.com/hc/en-us/articles/216753168--Downloaded-app-is-damage
 ```
 Download sprites
 ```bash
-https://downgit.github.io/#/home?url=https://github.com/WhChess/Electrify-Shooter/tree/main/sprites
+"Download is currently unavailable."
 ```
 Download source code
 ```bash
