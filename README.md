@@ -1,21 +1,3 @@
-## How-To
-
-Download the game
-
-```bash
-Windows:
-https://github.com/WhChess/Electrify-Shooter/raw/main/ShooterGameInstallerWin.exe
-```
-
-Download source code
-
-```bash
-https://github.com/WhChess/Electrify-Shooter/archive/refs/heads/main.zip
-```
-
-## Manual
-- [GMS Manual](https://manual.yoyogames.com/) - GameMaker Manual.
-
 ## Key & Functions
 
 | Key               |      Function                                                           |
@@ -34,6 +16,9 @@ https://github.com/WhChess/Electrify-Shooter/archive/refs/heads/main.zip
 - Broadcast Sign - Game Start/Pause
 - Headphone Sign - Change the Background Music.
 - Score - Your Game-Score.
+
+## Manual
+- [GMS Manual](https://manual.yoyogames.com/) - GameMaker Manual.
 
 ## License
 *This project is made for entertainment purposes.*
