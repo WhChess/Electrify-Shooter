@@ -1,3 +1,8 @@
+## Downloading the game
+
+* For the latest version of the game, download it from the [releases](https://github.com/WhChess/Electrify-Shooter/releases) section.
+* For the source code, you can use [this link](https://github.com/WhChess/Electrify-Shooter/archive/refs/heads/main.zip).
+
 ## Key & Functions
 
 | Key               |      Function                                                           |
@@ -21,5 +26,7 @@
 - [GMS Manual](https://manual.yoyogames.com/) - GameMaker Manual.
 
 ## License
-*This project is made for entertainment purposes.*
+> [!IMPORTANT]
+> *This project is made for entertainment purposes.*
+
 For License, See: [Mozilla Public License 2.0](https://github.com/WhChess/Electrify-Shooter/blob/main/LICENSE)
